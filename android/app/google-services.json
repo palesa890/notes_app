@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "165828579273",
+    "project_id": "basicapp-d158d",
+    "storage_bucket": "basicapp-d158d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:165828579273:android:a3ab406edca10f3b10e218",
+        "android_client_info": {
+          "package_name": "com.exam"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaSEDaC90szCGBVzx52vQaMyFS-A1K3ak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:165828579273:android:a8e7351aed80bc2110e218",
+        "android_client_info": {
+          "package_name": "com.example.notes_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaSEDaC90szCGBVzx52vQaMyFS-A1K3ak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
